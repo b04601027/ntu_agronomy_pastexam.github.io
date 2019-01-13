@@ -1,0 +1,53 @@
+body {
+    margin: 0px;
+}
+
+.font1 {
+    color: white;
+    font-family: SimSun;
+    text-align: center;
+    font-size: 2em
+}
+
+.container {
+    background-color: #00cdcf;
+}
+
+.row1-2 {
+    padding: 40px;
+    width: 60%;
+    font-weight: bold;
+    margin: 0 auto;
+    border-style: double;
+    border-width: 20px;
+    border-color: white;
+}
+
+.row1-3 {
+    font-weight: bold;
+    width: 80%;
+    margin: 0 auto;
+    padding: 20px;
+}
+
+.img-home {
+    width: 50px;
+}
+
+.container2 {
+    padding: 2em;
+    justify-content: space-around;
+    display: flex;
+}
+
+.row2 {
+    width: 10%;
+    background-color: teal;
+    box-shadow: 3px 3px chocolate;
+    border-radius: 8px;
+}
+
+a {
+    color: white;
+    text-decoration: none;
+}
